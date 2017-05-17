@@ -1,0 +1,65 @@
+duration:1.0;mem stats:false;sys mem stats:false
+module;test;tags;iterations;elapsed
+DecoderBench	Issue 90 (JSON)		1	1666437
+DecoderBench	Issue 90 (JSX)		10	1393883
+DecoderBench	Issue 90 (OJSON)		10	1966146
+DecoderBench	Issue 90 (Poison)		10	1983105
+DecoderBench	Issue 90 (jiffy)		100	1900145
+DecoderBench	Issue 90 (jsone)		10	2020402
+DecoderBench	JSON		500	2673802
+DecoderBench	JSX		1000	1952355
+DecoderBench	OJSON		1000	1710158
+DecoderBench	Poison		1000	1680418
+DecoderBench	UTF-8 unescaping (JSON)		5000	3062524
+DecoderBench	UTF-8 unescaping (JSX)		10000	2888625
+DecoderBench	UTF-8 unescaping (OJSON)		5000	1664807
+DecoderBench	UTF-8 unescaping (Poison)		5000	1630170
+DecoderBench	UTF-8 unescaping (jiffy)		50000	3127187
+DecoderBench	UTF-8 unescaping (jsone)		5000	1834980
+DecoderBench	jiffy		5000	2594647
+DecoderBench	jsone		1000	1479485
+EncoderBench	JSON		1000	2515410
+EncoderBench	JSX		1000	2544180
+EncoderBench	JSX (pretty)		500	3024608
+EncoderBench	Jazz		1000	2019680
+EncoderBench	Jazz (pretty)		1000	2231417
+EncoderBench	OJSON		1000	2579936
+EncoderBench	OJSON (pretty)		1000	2670149
+EncoderBench	Poison		1000	1654150
+EncoderBench	Poison (pretty)		1000	1995437
+EncoderBench	jiffy		5000	2303769
+EncoderBench	jiffy (pretty)		5000	2356368
+EncoderBench	jsone		1000	1796108
+EncoderBench	jsone (pretty)		1000	1937942
+EncoderBench	lists (JSON)		5000	2601733
+EncoderBench	lists (JSX)		5000	1842133
+EncoderBench	lists (Jazz)		10000	2295360
+EncoderBench	lists (OJSON)		10000	1175964
+EncoderBench	lists (Poison)		10000	1223975
+EncoderBench	lists (jiffy)		10000	2439036
+EncoderBench	lists (jsone)		10000	1815385
+EncoderBench	maps (JSON)		50000	1851591
+EncoderBench	maps (JSX)		50000	1684392
+EncoderBench	maps (Jazz)		100000	2286959
+EncoderBench	maps (OJSON)		20000	1503030
+EncoderBench	maps (Poison)		100000	2005330
+EncoderBench	maps (jiffy)		200000	1693748
+EncoderBench	maps (jsone)		100000	1148272
+EncoderBench	string escaping (JSX)		1000	1522467
+EncoderBench	string escaping (Jazz)		1000	1242788
+EncoderBench	string escaping (OJSON)		1000	2783567
+EncoderBench	string escaping (Poison)		1000	1682163
+EncoderBench	string escaping (jiffy)		10000	1354531
+EncoderBench	string escaping (jsone)		2000	1718327
+EncoderBench	strings (JSON)		5000	1831787
+EncoderBench	strings (JSX)		10000	2685292
+EncoderBench	strings (Jazz)		5000	2053419
+EncoderBench	strings (OJSON)		5000	1600538
+EncoderBench	strings (Poison)		5000	2930022
+EncoderBench	strings (jiffy)		10000	1051069
+EncoderBench	strings (jsone)		5000	3540232
+EncoderBench	structs (JSON)		50000	2600729
+EncoderBench	structs (JSX)		100000	1815535
+EncoderBench	structs (Jazz)		100000	1549699
+EncoderBench	structs (OJSON)		50000	2054890
+EncoderBench	structs (Poison)		200000	1943439
