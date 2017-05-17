@@ -2,7 +2,7 @@
 %% vim: ts=4 sw=4 ft=erlang noet
 {application, ojson, [
 	{description, "Ordered JSON (OJSON) - deterministic or stable serialization"},
-	{vsn, "0.0.0"},
+	{vsn, "1.0.0"},
 	{id, "git"},
 	{registered, []},
 	{applications, [

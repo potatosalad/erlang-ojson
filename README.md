@@ -17,7 +17,7 @@ by adding `ojson` to your list of dependencies in `mix.exs`:
 
 ```elixir
 def deps do
-  [{:ojson, "~> 0.0.0"}]
+  [{:ojson, "~> 1.0.0"}]
 end
 ```
 
